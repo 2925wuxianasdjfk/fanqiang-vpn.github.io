@@ -126,6 +126,14 @@
 
 大型的VPN服务商IP资源多，而且一般对通用VPN协议进行二次开发，加入混淆算法，被探测到在时间上比一般自建的要慢很多。即使被封了再换一批ip，个人使用这种VPS翻墙就很蛋疼了，被封了只能花钱换IP，很可能下一个IP又是被封的，总之够折腾！这种VPS搭搭网站还行，用来翻墙还是算了。
 
+|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Nord梯子 | ⚡⚡⚡⚡⚡ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2925wuxianasdjfk&aff_click_id=japanVPN) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2925wuxianasdjfk&aff_sub2=japanVPN) | - |
+| Express梯子 | ⚡⚡⚡⚡ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=japanVPN) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=japanVPN) | - |
+| Ivacy梯子 | ⚡⚡⚡⚡ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2925wuxianasdjfk&data2=japanVPN) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/2925wuxianasdjfk/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2925wuxianasdjfk&data2=japanVPN) |
+| 熊猫梯子 | ⚡⚡⚡ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Strong梯子 | ⚡⚡⚡ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) |
+
 ## 什么VPN适合中国用户？
 
 **在中国能用**
@@ -428,6 +436,14 @@ VyprVPN在中国怎么样？这款VPN目前在中国虽然也能勉强使用，�
 
 **本文会根据测评情况和使用体验，定期更新排名，如果觉得内容有用的话，欢迎添加收藏。**
 
+|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Nord梯子 | ⚡⚡⚡⚡⚡ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2925wuxianasdjfk&aff_click_id=japanVPN) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2925wuxianasdjfk&aff_sub2=japanVPN) | - |
+| Express梯子 | ⚡⚡⚡⚡ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=japanVPN) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=japanVPN) | - |
+| Ivacy梯子 | ⚡⚡⚡⚡ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2925wuxianasdjfk&data2=japanVPN) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/2925wuxianasdjfk/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2925wuxianasdjfk&data2=japanVPN) |
+| 熊猫梯子 | ⚡⚡⚡ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Strong梯子 | ⚡⚡⚡ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) |
+
 
 ## 翻墙软件VPN推荐的标准
 
@@ -470,4 +486,12 @@ VPN是英文Virtual Private Network的缩写，翻译过来就是虚拟专用网
 
 通过以上对VPN的原理和防火长城的原理，有了一定了解之后，就会发现使用VPN的好处了。首先VPN最初的目的是为了企业之间在不安全的网络上进行安全的数据传输，所有在网络传输的数据都是经过加密的，让我们不用担心被中间人获取，保证了我们的隐私安全，当然首先要保证购买的VPN不会记录用户的访问日志，所以需要选择国际大品牌且信誉较好的商家。当然大部分中国用户把VPN都是当作翻墙软件，因为VPN的特性能够很好的满足翻墙的需求，并且一些有点技术实力的VPN服务商都针对防火长城做了优化，因为近几年墙的检测技术越来越复杂，普通开源协议加密的流量很容易被识别，所以为了能够稳定翻墙，这些VPN商家都开发一些适用于中国网络环境的混淆通讯协议，在日常浏览网站、观看视频或者和朋友通讯的时候，不用担心传输数据受到运营商的监听。
 
->如果觉得本文有帮助，欢迎收藏，本文会根据使用体验和测试结果实时更新。
+|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Nord梯子 | ⚡⚡⚡⚡⚡ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2925wuxianasdjfk&aff_click_id=japanVPN) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2925wuxianasdjfk&aff_sub2=japanVPN) | - |
+| Express梯子 | ⚡⚡⚡⚡ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=japanVPN) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=japanVPN) | - |
+| Ivacy梯子 | ⚡⚡⚡⚡ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2925wuxianasdjfk&data2=japanVPN) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/2925wuxianasdjfk/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2925wuxianasdjfk&data2=japanVPN) |
+| 熊猫梯子 | ⚡⚡⚡ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Strong梯子 | ⚡⚡⚡ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) |
+
+感谢老铁的阅读，欢迎关注我的更新[https://github.com/2925wuxianasdjfk/fanqiang-vpn.github.io](https://github.com/2925wuxianasdjfk/fanqiang-vpn.github.io)
