@@ -455,9 +455,6 @@ VyprVPN在中国怎么样？这款VPN目前在中国虽然也能勉强使用，�
 
 所有常见设备的客户端下载和安装请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
-### 其他翻墙姿势
-
-上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，ip太容易被墙。如果有基友要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装V2Ray或者Shadowsocks，VPS位置最好选择美国西海岸，Los Angeles/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://bandwagonhost.com/aff.php?aff=20789" target="_blank">搬瓦工</a>或者<a rel="nofollow noopener" href="https://www.vultr.com/?ref=6804316" target="_blank">Vultr</a>的VPS，性价比较高，国人用的多，出现问题更好和客服沟通。日本机房最好避开，ip能用的寥寥无几，美国机房ip多，情况稍好一些。V2Ray最近比较火，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年3月25提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过之后，V2ray也就宣告失效。
 
 ## 关于VPN的一些问题
 
