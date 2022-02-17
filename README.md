@@ -8,9 +8,9 @@
 
 |  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
-| Nord梯子 | ⚡⚡⚡⚡⚡ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=japanVPN) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=japanVPN) | - |
-| Express梯子 | ⚡⚡⚡⚡ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=japanVPN) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=japanVPN) | - |
-| Ivacy梯子 | ⚡⚡⚡⚡ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=japanVPN) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitfqmama/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitfqmama&data2=japanVPN) |
+| Nord梯子 | ⚡⚡⚡⚡⚡ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2925wuxianasdjfk&aff_click_id=japanVPN) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2925wuxianasdjfk&aff_sub2=japanVPN) | - |
+| Express梯子 | ⚡⚡⚡⚡ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=japanVPN) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=japanVPN) | - |
+| Ivacy梯子 | ⚡⚡⚡⚡ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2925wuxianasdjfk&data2=japanVPN) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/2925wuxianasdjfk/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2925wuxianasdjfk&data2=japanVPN) |
 | 熊猫梯子 | ⚡⚡⚡ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
 | Strong梯子 | ⚡⚡⚡ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) |
 
@@ -302,7 +302,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 ---
 
 
-## 3.<a rel="nofollow noopener" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=fanqiangvpngitio" target="_blank"> NordVPN</a>
+## 3.<a rel="nofollow noopener" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2925wuxianasdjfk&aff_click_id=fanqiangvpngitio" target="_blank"> NordVPN</a>
 
 [![NordVPN](/image/nord-min.png)](#3-nordvpn)
 
@@ -321,7 +321,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=fanqiangvpngitio" target="_blank"> 点击获取NordVPN官网优惠</a>。
+3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2925wuxianasdjfk&aff_click_id=fanqiangvpngitio" target="_blank"> 点击获取NordVPN官网优惠</a>。
 
 完成之后，就可以正常访问官网和使用客户端了。
 
