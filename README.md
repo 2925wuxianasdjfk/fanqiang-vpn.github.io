@@ -98,6 +98,14 @@
 
 所以说选择大型正规的VPN服务，灵活的使用基本上能确保全年的正常使用，当然在国内的敏感时期有些节点的速度还是比平时慢一些，所有翻墙软件都无法避免，用过的自然懂。
 
+|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Nord梯子 | ⚡⚡⚡⚡⚡ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=2925wuxianasdjfk&aff_click_id=japanVPN) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=2925wuxianasdjfk&aff_sub2=japanVPN) | - |
+| Express梯子 | ⚡⚡⚡⚡ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=japanVPN) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=japanVPN) | - |
+| Ivacy梯子 | ⚡⚡⚡⚡ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=2925wuxianasdjfk&data2=japanVPN) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/2925wuxianasdjfk/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=2925wuxianasdjfk&data2=japanVPN) |
+| 熊猫梯子 | ⚡⚡⚡ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Strong梯子 | ⚡⚡⚡ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) |
+
 ## 敏感时期是什么时候？
 上面说过，国内的“敏感时期”所有的翻墙工具会出现 连接不畅、掉线种种问题，这个时期内几乎所有科学上网软件都会遭受严重影响，连不上、速度慢、频繁掉线等问题纷纷出现，这个时候中国互联网处于“戒严”状态，信息出入境极其不自由，就算正常访问国外没被墙的网站也是速度极慢，每次敏感时期可持续约1周左右后恢复，大家就可以像以前那样翻墙科学上网了。不过话说回来，从2020年整体来看，由于国内内环境更稳定，能翻墙出去的也不容易被墙外的宣传忽悠住，对于翻墙软件似乎开始有松动的迹象，打击程度不像去年那么密集了，但是还是会有封锁，这是猫捉老鼠的游戏，在未来几年会一直持续。封锁后接下来一线大厂的VPN一般会通过更新客户端或线路的方式恢复访问，但大多数中小型的翻墙软件要么等个把月甚至几个月恢复、要么干脆跑路、换马甲继续收钱。
 
