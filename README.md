@@ -3,8 +3,8 @@
 
 > *紧急更新： 最近光年好多网友反应无法连接服务器，大概率是跑路。目前我们也在想办法联络光年VPN
 > 
-> 大家可以使用ExpressVPN 紧急连接。* **<a rel="nofollow noopener" href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmm&data1=fanqiangvpngitio" target="_blank">ExpressVPN【买一年送三个月】</a>** 
-> 或者最近开展亚洲业务，于2004年成立的老牌VPN <a rel="nofollow noopener" href="https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=fanqiangvpngitio" target="_blank">StrongVPN</a>
+> 大家可以使用ExpressVPN 紧急连接。* **<a rel="nofollow noopener" href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=fanqiangvpngitio" target="_blank">ExpressVPN【买一年送三个月】</a>** 
+> 或者最近开展亚洲业务，于2004年成立的老牌VPN <a rel="nofollow noopener" href="https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio" target="_blank">StrongVPN</a>
 
 |  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
 |  ----  | ----  | ---- | ---- | ---- |
@@ -12,7 +12,7 @@
 | Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=japanVPN) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=japanVPN) | - |
 | Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=japanVPN) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitfqmama/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitfqmama&data2=japanVPN) |
 | 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
-| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=fanqiangvpngitio) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=fanqiangvpngitio) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=fanqiangvpngitio) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio) |
 
 ---
 
@@ -35,11 +35,11 @@
 >其实就今天来看，VPN加密翻墙依然是最适合小白的主流安全科学上网工具，同样也是我长期关注和测试的。**如果你不想听我多磨叽，想快速、直接选择一款VPN就能安全翻墙，我建议选择下列2款**：
 >
 >
-> -<a rel="nofollow noopener" href="https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=gitfqmm&data2=fanqiangvpngitio" target="_blank">StrongVPN</a>
+> -<a rel="nofollow noopener" href="https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=2925wuxianasdjfk&data2=fanqiangvpngitio" target="_blank">StrongVPN</a>
 > 
 
 
-> - <a rel="nofollow noopener" href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmm&data1=fanqiangvpngitio" target="_blank">ExpressVPN【买一年送三个月】</a>：这款在国内速度体验还算是不错，也是我过去首推的VPN产品（现阶段来说还是光年VPN速度更好一些），ExpressVPN 主要的优势在**加密技术**，其官方宣称ExpressVPN 拥有目前世界最高级别的安全加密技术。ExpressVPN是全球最大的VPN厂商之一，虽然2020年之后中国并非其主要经营区域，但依然时常更新中国区可以使用的节点。ExpressVPN算是大厂中更新中国地区节点最频繁的VPN了。在服务品质方便，ExpressVPN 依然相当备受肯定。
+> - <a rel="nofollow noopener" href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=fanqiangvpngitio" target="_blank">ExpressVPN【买一年送三个月】</a>：这款在国内速度体验还算是不错，也是我过去首推的VPN产品（现阶段来说还是光年VPN速度更好一些），ExpressVPN 主要的优势在**加密技术**，其官方宣称ExpressVPN 拥有目前世界最高级别的安全加密技术。ExpressVPN是全球最大的VPN厂商之一，虽然2020年之后中国并非其主要经营区域，但依然时常更新中国区可以使用的节点。ExpressVPN算是大厂中更新中国地区节点最频繁的VPN了。在服务品质方便，ExpressVPN 依然相当备受肯定。
 
 
 > 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封。网络技术和经验不深的读者不推荐这种方法；其次，**热门的搬瓦工BandWagonHost、Vultr和DO几个国人扎堆的机房不建议使用**，因为开启的服务器可能是其他人已经被墙的梯子。这种IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。**目前HostWinds是个还不错的替代选择**，目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度快，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都不错。可以免费换IP。
@@ -184,11 +184,11 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 ---
 
 
-## 2.<a rel="nofollow noopener" href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmm&data1=fanqiangvpngitio" target="_blank"> ExpressVPN – 最高级别加密</a>
+## 2.<a rel="nofollow noopener" href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=fanqiangvpngitio" target="_blank"> ExpressVPN – 最高级别加密</a>
 
 >2020年12月使用，确认可用，速度体验在我测试使用的几款中表现第二好，尤其是LA-5、Marina Bay线路的速度很快，这款VPN在iPhone上的使用体验都不错。
 
-[![ExpressVPN](image/ExpressVPN-logo.png)](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmm&data1=fanqiangvpngitio)
+[![ExpressVPN](image/ExpressVPN-logo.png)](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=fanqiangvpngitio)
 
 ExpressVPN 是相当适合在中国大陆使用的翻墙VPN软件，技术能力出色且能快速应对防火长城的封锁，成为了翻墙到国外最好用的VPN产品。但是由于经过实测光年VPN在连接速度表现更好、延迟度更低、价格更便宜，因此ExpressVPN目前排名第二。
 
@@ -226,7 +226,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### ExpressVPN的缺点
 
-[![express-vpn-servers](/image/express-vpn-servers.png)](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmm&data1=fanqiangvpngitio)
+[![express-vpn-servers](/image/express-vpn-servers.png)](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=fanqiangvpngitio)
 
 - ExpresssVPN软件客户端是英文界面（如上图），没有中文，并且价格较其他VPN品牌贵些，基本上一年套餐比其他VPN的一年套餐贵20%左右，现在有限时优惠**买一年送三个月活动，每月$6.67/月**，支持支付宝支付。
 
@@ -279,11 +279,11 @@ iPhone手机使用移动4G网络连接ExpressVPN的Marina Bay节点，使用Spee
 
 ExpressVPN的客服是业内最好的之一，随时提供网上帮助。此外，ExpressVPN兼容各种常见设备，并且可以配置在路由器上，在电脑（Windows或Mac）和移动设备（iPhone、安卓、平板）上都可以使用，**最多支持5台设备同时在线使用**。
 
-[![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmm&data1=fanqiangvpngitio)
+[![ExpressVPN支持设备](/image/express-vpn-devices.png "ExpressVPN支持设备截图")](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=fanqiangvpngitio)
 
 套餐的价格：性价比最高的是1年套餐，同时他们保证30天内使用不满意无条件退款，所以你有足够的时间来测试。
 
-[![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmm&data1=fanqiangvpngitio)
+[![ExpressVPN付款方式](/image/express-vpn-payment.png "ExpressVPN付款方式截图")](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=fanqiangvpngitio)
 
 ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
@@ -295,7 +295,7 @@ ExpressVPN支持支付宝、银联等多种方式付款。付款后，在手机�
 >
 >**推荐用户**：对速度和稳定性有要求的用户、iPhone和Mac用户首选
 
-### <center><a rel="nofollow noopener" href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmm&data1=fanqiangvpngitio" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
+### <center><a rel="nofollow noopener" href="https://www.xvbelink.com/?a_fid=tizi_vpn&chan=2925wuxianasdjfk&data1=fanqiangvpngitio" target="_blank">>> 获取ExpressVPN优惠 <<</a></center>
 
 > 由于冒牌网站很多，官方已经不再使用镜像域名（只能更新客户端使用），目前中国大陆的访客可能已经打不开ExpressVPN官网，需要梯子才能进入。
 
